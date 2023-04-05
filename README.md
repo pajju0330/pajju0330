@@ -1,5 +1,5 @@
 <h1 align="center">|| Pajju's here ||</h1>
-<h3 align="center">Giving a shoulder to lean on !</h3>
+<h3 align="center">FULL-STACK DEVELOPER</h3>
 <img align="right" alt="Luffy" width="400" height="400" src="https://c.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif">
 I’m currently learning **ReactJS**
 
