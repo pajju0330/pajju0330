@@ -1,11 +1,9 @@
-<h1 align="center">Hi there, I'm Pajju!</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Hie there, I'm Prajwal !!!</h1>
+<h3 align="center" color="blue">Full-Stack Developer</h3>
 
 <p align="center">
-  <img align="center" alt="Luffy" width="400" height="600" src="https://cdn.wallpapersafari.com/73/10/rTmSMB.jpg">
+  <img align="center" alt="about me" src="about_me.png">
 </p>
-
-<p align="center">As a MERN (MongoDB, Express.js, React.js, Node.js) stack developer,I have experience in building full-stack web applications using MongoDB as the database, Express.js as the web framework, React.js as the frontend library, and Node.js as the server-side runtime environment. I am proficient in writing server-side JavaScript code and have a deep understanding of the MERN stack, including popular libraries and tools such as Redux, Axios, and Passport. My expertise in implementing RESTful APIs, also possess strong debugging skills, allowing me to quickly identify and resolve issues</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
