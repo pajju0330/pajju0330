@@ -1,5 +1,5 @@
 <h1 align="center">Hie there, I'm Prajwal !!!</h1>
-<h3 align="center" color="blue">Full-Stack Developer</h3>
+<h3 align="center" color="blue">Backend Engineer | Distributed Systems</h3>
 
 <p align="center">
   <img align="center" alt="about me" src="about_me.png">
